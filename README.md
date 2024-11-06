@@ -1,7 +1,6 @@
 # Mon premier répertoire de stage 2024
 
-Nom: Ayman Abkari
-// TODO maintenant Daniel devrait s'ajouter
+Auteurs: Ayman Abkari et Daniel Costea
 
 
 ## Projet
